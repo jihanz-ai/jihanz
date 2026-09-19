@@ -1,6 +1,7 @@
 # jihanz
 About Me  
 > Student at: Binus University
+> 
 > Major: Information Systems
 
 Connect with Me  
@@ -8,6 +9,9 @@ Connect with Me
 
 Tech Stack &amp; Tools 
 > HTML5
+> 
 > Git
+> 
 > GitHub
+> 
 > Visual Studio Code
