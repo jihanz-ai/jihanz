@@ -1,13 +1,13 @@
-# jihanz
-About Me  
+# Hello There, I'm Jihan!
+# About Me  
 > Student at: Binus University
 > 
 > Major: Information Systems
 
-Connect with Me  
+# Connect with Me  
 > Instagram: @jian.zhr
 
-Tech Stack &amp; Tools 
+# Tech Stack &amp; Tools 
 > HTML5
 > 
 > Git
