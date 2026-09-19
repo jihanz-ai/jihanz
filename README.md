@@ -6,8 +6,10 @@
 
 # Connect with Me  
 > Instagram: @jian.zhr
+>
+> Line: 142081200
 
-# Tech Stack &amp; Tools 
+# Tech Stack & Tools 
 > HTML5
 > 
 > Git
